@@ -1,5 +1,5 @@
 {
-  "name": "ejs-test",
+  "name": "gulp-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,9 +11,11 @@
   "dependencies": {
     "ejs": "^3.1.8",
     "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
     "gulp-dest-clean": "^0.5.0",
     "gulp-ejs": "^5.1.0",
+    "gulp-imagemin": "^7.1.0",
     "gulp-rename": "^2.0.0",
-    "rev-del": "^2.0.0"
+    "gulp-uglify": "^3.0.2"
   }
 }
